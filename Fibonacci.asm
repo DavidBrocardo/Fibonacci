@@ -1,7 +1,7 @@
 ; N-essimo numero de fibonacci
 ; arquivo: Fibonacci.asm
 ; Autor : David Antonio Brocardo , Gabriel Santos da Silva ; Leonardo B. Balan de Oliveira.
-; nasm -f elf64Fibonacci.asm ; ld Fibonacci.o -o Fibonacci.x
+; nasm -f elf64 Fibonacci.asm ; ld Fibonacci.o -o Fibonacci.x
 
 ; valores em octal
 %define maxChars 10 ; no. máximo de caracteres a serem lidos
