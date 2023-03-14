@@ -3,7 +3,8 @@ Resolvendo o problema matemático de Fibonacci em assembly
 
 **Problema:** \
   Construir um código iterativo que calcule o n-éssimo número fibonacci.
-**Funcionamento:** \
+  
+**Funcionamento:** 
 * Deve ser solicitado ao usuário a entrada do n-éssimo número fibonacci buscado
   - A entrada é pelo teclado
   - uma string de caracteres ASCII que representa o número
